@@ -3,3 +3,7 @@
 ################################################################################
 
 /FileRemover/obj/Debug
+/Nonlinear.PostDeploySteps/bin
+/Nonlinear.PostDeploySteps/obj/Debug
+/packages
+/TDSExample/bin
